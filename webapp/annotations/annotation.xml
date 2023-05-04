@@ -18,6 +18,10 @@
                     <Record>
                         <PropertyValue Property="SourceProperties">
                             <Collection>
+                                <PropertyPath>ObjectText</PropertyPath>
+                                <PropertyPath>SuperiorFunctionalLocation</PropertyPath>
+                                <PropertyPath>TechnicalObjectType</PropertyPath>
+                                <PropertyPath>StartDate</PropertyPath>
                                 <PropertyPath>Country</PropertyPath>
                                 <PropertyPath>Region</PropertyPath>
                                 <PropertyPath>StreetName</PropertyPath>
@@ -34,9 +38,13 @@
                                 <PropertyPath>CountryName</PropertyPath>
                                 <PropertyPath>Status</PropertyPath>
                                 <PropertyPath>StatusText</PropertyPath>
+                                <PropertyPath>LastChangeDateTime</PropertyPath>
+                                <PropertyPath>LastChangedAt</PropertyPath>
+                                <PropertyPath>LastChangedBy</PropertyPath>
+                                <PropertyPath>LastChangedByUser</PropertyPath>
                             </Collection>
                         </PropertyValue>
-                    </Record>                    
+                    </Record>
                 </Annotation>
             </Annotations>
         </Schema>

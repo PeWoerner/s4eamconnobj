@@ -1,0 +1,122 @@
+[
+    {
+        "FunctionalLocationCategory": "1",
+        "ParVW": "P1",
+        "ParVWText": "ParVWText1",
+        "FuncLocCategoryInternal": "F1"
+    },
+    {
+        "FunctionalLocationCategory": "2",
+        "ParVW": "P2",
+        "ParVWText": "ParVWText2",
+        "FuncLocCategoryInternal": "F2"
+    },
+    {
+        "FunctionalLocationCategory": "3",
+        "ParVW": "P3",
+        "ParVWText": "ParVWText3",
+        "FuncLocCategoryInternal": "F3"
+    },
+    {
+        "FunctionalLocationCategory": "4",
+        "ParVW": "P4",
+        "ParVWText": "ParVWText4",
+        "FuncLocCategoryInternal": "F4"
+    },
+    {
+        "FunctionalLocationCategory": "5",
+        "ParVW": "P5",
+        "ParVWText": "ParVWText5",
+        "FuncLocCategoryInternal": "F5"
+    },
+    {
+        "FunctionalLocationCategory": "6",
+        "ParVW": "P6",
+        "ParVWText": "ParVWText6",
+        "FuncLocCategoryInternal": "F6"
+    },
+    {
+        "FunctionalLocationCategory": "7",
+        "ParVW": "P7",
+        "ParVWText": "ParVWText7",
+        "FuncLocCategoryInternal": "F7"
+    },
+    {
+        "FunctionalLocationCategory": "8",
+        "ParVW": "P8",
+        "ParVWText": "ParVWText8",
+        "FuncLocCategoryInternal": "F8"
+    },
+    {
+        "FunctionalLocationCategory": "9",
+        "ParVW": "P9",
+        "ParVWText": "ParVWText9",
+        "FuncLocCategoryInternal": "F9"
+    },
+    {
+        "FunctionalLocationCategory": "0",
+        "ParVW": "10",
+        "ParVWText": "ParVWText10",
+        "FuncLocCategoryInternal": "10"
+    },
+    {
+        "FunctionalLocationCategory": "1",
+        "ParVW": "11",
+        "ParVWText": "ParVWText11",
+        "FuncLocCategoryInternal": "11"
+    },
+    {
+        "FunctionalLocationCategory": "2",
+        "ParVW": "12",
+        "ParVWText": "ParVWText12",
+        "FuncLocCategoryInternal": "12"
+    },
+    {
+        "FunctionalLocationCategory": "3",
+        "ParVW": "13",
+        "ParVWText": "ParVWText13",
+        "FuncLocCategoryInternal": "13"
+    },
+    {
+        "FunctionalLocationCategory": "4",
+        "ParVW": "14",
+        "ParVWText": "ParVWText14",
+        "FuncLocCategoryInternal": "14"
+    },
+    {
+        "FunctionalLocationCategory": "5",
+        "ParVW": "15",
+        "ParVWText": "ParVWText15",
+        "FuncLocCategoryInternal": "15"
+    },
+    {
+        "FunctionalLocationCategory": "6",
+        "ParVW": "16",
+        "ParVWText": "ParVWText16",
+        "FuncLocCategoryInternal": "16"
+    },
+    {
+        "FunctionalLocationCategory": "7",
+        "ParVW": "17",
+        "ParVWText": "ParVWText17",
+        "FuncLocCategoryInternal": "17"
+    },
+    {
+        "FunctionalLocationCategory": "8",
+        "ParVW": "18",
+        "ParVWText": "ParVWText18",
+        "FuncLocCategoryInternal": "18"
+    },
+    {
+        "FunctionalLocationCategory": "9",
+        "ParVW": "19",
+        "ParVWText": "ParVWText19",
+        "FuncLocCategoryInternal": "19"
+    },
+    {
+        "FunctionalLocationCategory": "0",
+        "ParVW": "20",
+        "ParVWText": "ParVWText20",
+        "FuncLocCategoryInternal": "20"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "StatusSchema": "StatusS1",
+        "EStat": "ESta1",
+        "Language": "L1",
+        "StatusShortText": "Sta1",
+        "StatusText": "StatusText1",
+        "FunclocType": "1"
+    },
+    {
+        "StatusSchema": "StatusS2",
+        "EStat": "ESta2",
+        "Language": "L2",
+        "StatusShortText": "Sta2",
+        "StatusText": "StatusText2",
+        "FunclocType": "2"
+    },
+    {
+        "StatusSchema": "StatusS3",
+        "EStat": "ESta3",
+        "Language": "L3",
+        "StatusShortText": "Sta3",
+        "StatusText": "StatusText3",
+        "FunclocType": "3"
+    },
+    {
+        "StatusSchema": "StatusS4",
+        "EStat": "ESta4",
+        "Language": "L4",
+        "StatusShortText": "Sta4",
+        "StatusText": "StatusText4",
+        "FunclocType": "4"
+    },
+    {
+        "StatusSchema": "StatusS5",
+        "EStat": "ESta5",
+        "Language": "L5",
+        "StatusShortText": "Sta5",
+        "StatusText": "StatusText5",
+        "FunclocType": "5"
+    },
+    {
+        "StatusSchema": "StatusS6",
+        "EStat": "ESta6",
+        "Language": "L6",
+        "StatusShortText": "Sta6",
+        "StatusText": "StatusText6",
+        "FunclocType": "6"
+    },
+    {
+        "StatusSchema": "StatusS7",
+        "EStat": "ESta7",
+        "Language": "L7",
+        "StatusShortText": "Sta7",
+        "StatusText": "StatusText7",
+        "FunclocType": "7"
+    },
+    {
+        "StatusSchema": "StatusS8",
+        "EStat": "ESta8",
+        "Language": "L8",
+        "StatusShortText": "Sta8",
+        "StatusText": "StatusText8",
+        "FunclocType": "8"
+    },
+    {
+        "StatusSchema": "StatusS9",
+        "EStat": "ESta9",
+        "Language": "L9",
+        "StatusShortText": "Sta9",
+        "StatusText": "StatusText9",
+        "FunclocType": "9"
+    },
+    {
+        "StatusSchema": "Status10",
+        "EStat": "ESt10",
+        "Language": "10",
+        "StatusShortText": "St10",
+        "StatusText": "StatusText10",
+        "FunclocType": "0"
+    },
+    {
+        "StatusSchema": "Status11",
+        "EStat": "ESt11",
+        "Language": "11",
+        "StatusShortText": "St11",
+        "StatusText": "StatusText11",
+        "FunclocType": "1"
+    },
+    {
+        "StatusSchema": "Status12",
+        "EStat": "ESt12",
+        "Language": "12",
+        "StatusShortText": "St12",
+        "StatusText": "StatusText12",
+        "FunclocType": "2"
+    },
+    {
+        "StatusSchema": "Status13",
+        "EStat": "ESt13",
+        "Language": "13",
+        "StatusShortText": "St13",
+        "StatusText": "StatusText13",
+        "FunclocType": "3"
+    },
+    {
+        "StatusSchema": "Status14",
+        "EStat": "ESt14",
+        "Language": "14",
+        "StatusShortText": "St14",
+        "StatusText": "StatusText14",
+        "FunclocType": "4"
+    },
+    {
+        "StatusSchema": "Status15",
+        "EStat": "ESt15",
+        "Language": "15",
+        "StatusShortText": "St15",
+        "StatusText": "StatusText15",
+        "FunclocType": "5"
+    },
+    {
+        "StatusSchema": "Status16",
+        "EStat": "ESt16",
+        "Language": "16",
+        "StatusShortText": "St16",
+        "StatusText": "StatusText16",
+        "FunclocType": "6"
+    },
+    {
+        "StatusSchema": "Status17",
+        "EStat": "ESt17",
+        "Language": "17",
+        "StatusShortText": "St17",
+        "StatusText": "StatusText17",
+        "FunclocType": "7"
+    },
+    {
+        "StatusSchema": "Status18",
+        "EStat": "ESt18",
+        "Language": "18",
+        "StatusShortText": "St18",
+        "StatusText": "StatusText18",
+        "FunclocType": "8"
+    },
+    {
+        "StatusSchema": "Status19",
+        "EStat": "ESt19",
+        "Language": "19",
+        "StatusShortText": "St19",
+        "StatusText": "StatusText19",
+        "FunclocType": "9"
+    },
+    {
+        "StatusSchema": "Status20",
+        "EStat": "ESt20",
+        "Language": "20",
+        "StatusShortText": "St20",
+        "StatusText": "StatusText20",
+        "FunclocType": "0"
+    }
+]

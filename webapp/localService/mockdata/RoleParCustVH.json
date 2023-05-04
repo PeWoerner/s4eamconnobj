@@ -1,0 +1,202 @@
+[
+    {
+        "Parvw": "P1",
+        "Partner": "Partner1",
+        "MC_NAME1": "MC_NAME11",
+        "MC_NAME2": "MC_NAME21",
+        "POST_CODE1": "POST_CODE1",
+        "MC_CITY1": "MC_CITY11",
+        "MC_STREET": "MC_STREET1",
+        "HOUSE_NUM1": "HOUSE_NUM1"
+    },
+    {
+        "Parvw": "P2",
+        "Partner": "Partner2",
+        "MC_NAME1": "MC_NAME12",
+        "MC_NAME2": "MC_NAME22",
+        "POST_CODE1": "POST_CODE2",
+        "MC_CITY1": "MC_CITY12",
+        "MC_STREET": "MC_STREET2",
+        "HOUSE_NUM1": "HOUSE_NUM2"
+    },
+    {
+        "Parvw": "P3",
+        "Partner": "Partner3",
+        "MC_NAME1": "MC_NAME13",
+        "MC_NAME2": "MC_NAME23",
+        "POST_CODE1": "POST_CODE3",
+        "MC_CITY1": "MC_CITY13",
+        "MC_STREET": "MC_STREET3",
+        "HOUSE_NUM1": "HOUSE_NUM3"
+    },
+    {
+        "Parvw": "P4",
+        "Partner": "Partner4",
+        "MC_NAME1": "MC_NAME14",
+        "MC_NAME2": "MC_NAME24",
+        "POST_CODE1": "POST_CODE4",
+        "MC_CITY1": "MC_CITY14",
+        "MC_STREET": "MC_STREET4",
+        "HOUSE_NUM1": "HOUSE_NUM4"
+    },
+    {
+        "Parvw": "P5",
+        "Partner": "Partner5",
+        "MC_NAME1": "MC_NAME15",
+        "MC_NAME2": "MC_NAME25",
+        "POST_CODE1": "POST_CODE5",
+        "MC_CITY1": "MC_CITY15",
+        "MC_STREET": "MC_STREET5",
+        "HOUSE_NUM1": "HOUSE_NUM5"
+    },
+    {
+        "Parvw": "P6",
+        "Partner": "Partner6",
+        "MC_NAME1": "MC_NAME16",
+        "MC_NAME2": "MC_NAME26",
+        "POST_CODE1": "POST_CODE6",
+        "MC_CITY1": "MC_CITY16",
+        "MC_STREET": "MC_STREET6",
+        "HOUSE_NUM1": "HOUSE_NUM6"
+    },
+    {
+        "Parvw": "P7",
+        "Partner": "Partner7",
+        "MC_NAME1": "MC_NAME17",
+        "MC_NAME2": "MC_NAME27",
+        "POST_CODE1": "POST_CODE7",
+        "MC_CITY1": "MC_CITY17",
+        "MC_STREET": "MC_STREET7",
+        "HOUSE_NUM1": "HOUSE_NUM7"
+    },
+    {
+        "Parvw": "P8",
+        "Partner": "Partner8",
+        "MC_NAME1": "MC_NAME18",
+        "MC_NAME2": "MC_NAME28",
+        "POST_CODE1": "POST_CODE8",
+        "MC_CITY1": "MC_CITY18",
+        "MC_STREET": "MC_STREET8",
+        "HOUSE_NUM1": "HOUSE_NUM8"
+    },
+    {
+        "Parvw": "P9",
+        "Partner": "Partner9",
+        "MC_NAME1": "MC_NAME19",
+        "MC_NAME2": "MC_NAME29",
+        "POST_CODE1": "POST_CODE9",
+        "MC_CITY1": "MC_CITY19",
+        "MC_STREET": "MC_STREET9",
+        "HOUSE_NUM1": "HOUSE_NUM9"
+    },
+    {
+        "Parvw": "10",
+        "Partner": "Partner10",
+        "MC_NAME1": "MC_NAME110",
+        "MC_NAME2": "MC_NAME210",
+        "POST_CODE1": "POST_COD10",
+        "MC_CITY1": "MC_CITY110",
+        "MC_STREET": "MC_STREET10",
+        "HOUSE_NUM1": "HOUSE_NU10"
+    },
+    {
+        "Parvw": "11",
+        "Partner": "Partner11",
+        "MC_NAME1": "MC_NAME111",
+        "MC_NAME2": "MC_NAME211",
+        "POST_CODE1": "POST_COD11",
+        "MC_CITY1": "MC_CITY111",
+        "MC_STREET": "MC_STREET11",
+        "HOUSE_NUM1": "HOUSE_NU11"
+    },
+    {
+        "Parvw": "12",
+        "Partner": "Partner12",
+        "MC_NAME1": "MC_NAME112",
+        "MC_NAME2": "MC_NAME212",
+        "POST_CODE1": "POST_COD12",
+        "MC_CITY1": "MC_CITY112",
+        "MC_STREET": "MC_STREET12",
+        "HOUSE_NUM1": "HOUSE_NU12"
+    },
+    {
+        "Parvw": "13",
+        "Partner": "Partner13",
+        "MC_NAME1": "MC_NAME113",
+        "MC_NAME2": "MC_NAME213",
+        "POST_CODE1": "POST_COD13",
+        "MC_CITY1": "MC_CITY113",
+        "MC_STREET": "MC_STREET13",
+        "HOUSE_NUM1": "HOUSE_NU13"
+    },
+    {
+        "Parvw": "14",
+        "Partner": "Partner14",
+        "MC_NAME1": "MC_NAME114",
+        "MC_NAME2": "MC_NAME214",
+        "POST_CODE1": "POST_COD14",
+        "MC_CITY1": "MC_CITY114",
+        "MC_STREET": "MC_STREET14",
+        "HOUSE_NUM1": "HOUSE_NU14"
+    },
+    {
+        "Parvw": "15",
+        "Partner": "Partner15",
+        "MC_NAME1": "MC_NAME115",
+        "MC_NAME2": "MC_NAME215",
+        "POST_CODE1": "POST_COD15",
+        "MC_CITY1": "MC_CITY115",
+        "MC_STREET": "MC_STREET15",
+        "HOUSE_NUM1": "HOUSE_NU15"
+    },
+    {
+        "Parvw": "16",
+        "Partner": "Partner16",
+        "MC_NAME1": "MC_NAME116",
+        "MC_NAME2": "MC_NAME216",
+        "POST_CODE1": "POST_COD16",
+        "MC_CITY1": "MC_CITY116",
+        "MC_STREET": "MC_STREET16",
+        "HOUSE_NUM1": "HOUSE_NU16"
+    },
+    {
+        "Parvw": "17",
+        "Partner": "Partner17",
+        "MC_NAME1": "MC_NAME117",
+        "MC_NAME2": "MC_NAME217",
+        "POST_CODE1": "POST_COD17",
+        "MC_CITY1": "MC_CITY117",
+        "MC_STREET": "MC_STREET17",
+        "HOUSE_NUM1": "HOUSE_NU17"
+    },
+    {
+        "Parvw": "18",
+        "Partner": "Partner18",
+        "MC_NAME1": "MC_NAME118",
+        "MC_NAME2": "MC_NAME218",
+        "POST_CODE1": "POST_COD18",
+        "MC_CITY1": "MC_CITY118",
+        "MC_STREET": "MC_STREET18",
+        "HOUSE_NUM1": "HOUSE_NU18"
+    },
+    {
+        "Parvw": "19",
+        "Partner": "Partner19",
+        "MC_NAME1": "MC_NAME119",
+        "MC_NAME2": "MC_NAME219",
+        "POST_CODE1": "POST_COD19",
+        "MC_CITY1": "MC_CITY119",
+        "MC_STREET": "MC_STREET19",
+        "HOUSE_NUM1": "HOUSE_NU19"
+    },
+    {
+        "Parvw": "20",
+        "Partner": "Partner20",
+        "MC_NAME1": "MC_NAME120",
+        "MC_NAME2": "MC_NAME220",
+        "POST_CODE1": "POST_COD20",
+        "MC_CITY1": "MC_CITY120",
+        "MC_STREET": "MC_STREET20",
+        "HOUSE_NUM1": "HOUSE_NU20"
+    }
+]

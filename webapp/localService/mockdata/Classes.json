@@ -1,0 +1,182 @@
+[
+    {
+        "ObjectId": "ObjectId1",
+        "Clint": "Clint1",
+        "ClassType": "Cl1",
+        "ClassNum": "ClassNum1",
+        "ClassBez": "ClassBez1",
+        "Status": "1",
+        "StandardClass": "1"
+    },
+    {
+        "ObjectId": "ObjectId2",
+        "Clint": "Clint2",
+        "ClassType": "Cl2",
+        "ClassNum": "ClassNum2",
+        "ClassBez": "ClassBez2",
+        "Status": "2",
+        "StandardClass": "2"
+    },
+    {
+        "ObjectId": "ObjectId3",
+        "Clint": "Clint3",
+        "ClassType": "Cl3",
+        "ClassNum": "ClassNum3",
+        "ClassBez": "ClassBez3",
+        "Status": "3",
+        "StandardClass": "3"
+    },
+    {
+        "ObjectId": "ObjectId4",
+        "Clint": "Clint4",
+        "ClassType": "Cl4",
+        "ClassNum": "ClassNum4",
+        "ClassBez": "ClassBez4",
+        "Status": "4",
+        "StandardClass": "4"
+    },
+    {
+        "ObjectId": "ObjectId5",
+        "Clint": "Clint5",
+        "ClassType": "Cl5",
+        "ClassNum": "ClassNum5",
+        "ClassBez": "ClassBez5",
+        "Status": "5",
+        "StandardClass": "5"
+    },
+    {
+        "ObjectId": "ObjectId6",
+        "Clint": "Clint6",
+        "ClassType": "Cl6",
+        "ClassNum": "ClassNum6",
+        "ClassBez": "ClassBez6",
+        "Status": "6",
+        "StandardClass": "6"
+    },
+    {
+        "ObjectId": "ObjectId7",
+        "Clint": "Clint7",
+        "ClassType": "Cl7",
+        "ClassNum": "ClassNum7",
+        "ClassBez": "ClassBez7",
+        "Status": "7",
+        "StandardClass": "7"
+    },
+    {
+        "ObjectId": "ObjectId8",
+        "Clint": "Clint8",
+        "ClassType": "Cl8",
+        "ClassNum": "ClassNum8",
+        "ClassBez": "ClassBez8",
+        "Status": "8",
+        "StandardClass": "8"
+    },
+    {
+        "ObjectId": "ObjectId9",
+        "Clint": "Clint9",
+        "ClassType": "Cl9",
+        "ClassNum": "ClassNum9",
+        "ClassBez": "ClassBez9",
+        "Status": "9",
+        "StandardClass": "9"
+    },
+    {
+        "ObjectId": "ObjectId10",
+        "Clint": "Clint10",
+        "ClassType": "C10",
+        "ClassNum": "ClassNum10",
+        "ClassBez": "ClassBez10",
+        "Status": "0",
+        "StandardClass": "0"
+    },
+    {
+        "ObjectId": "ObjectId11",
+        "Clint": "Clint11",
+        "ClassType": "C11",
+        "ClassNum": "ClassNum11",
+        "ClassBez": "ClassBez11",
+        "Status": "1",
+        "StandardClass": "1"
+    },
+    {
+        "ObjectId": "ObjectId12",
+        "Clint": "Clint12",
+        "ClassType": "C12",
+        "ClassNum": "ClassNum12",
+        "ClassBez": "ClassBez12",
+        "Status": "2",
+        "StandardClass": "2"
+    },
+    {
+        "ObjectId": "ObjectId13",
+        "Clint": "Clint13",
+        "ClassType": "C13",
+        "ClassNum": "ClassNum13",
+        "ClassBez": "ClassBez13",
+        "Status": "3",
+        "StandardClass": "3"
+    },
+    {
+        "ObjectId": "ObjectId14",
+        "Clint": "Clint14",
+        "ClassType": "C14",
+        "ClassNum": "ClassNum14",
+        "ClassBez": "ClassBez14",
+        "Status": "4",
+        "StandardClass": "4"
+    },
+    {
+        "ObjectId": "ObjectId15",
+        "Clint": "Clint15",
+        "ClassType": "C15",
+        "ClassNum": "ClassNum15",
+        "ClassBez": "ClassBez15",
+        "Status": "5",
+        "StandardClass": "5"
+    },
+    {
+        "ObjectId": "ObjectId16",
+        "Clint": "Clint16",
+        "ClassType": "C16",
+        "ClassNum": "ClassNum16",
+        "ClassBez": "ClassBez16",
+        "Status": "6",
+        "StandardClass": "6"
+    },
+    {
+        "ObjectId": "ObjectId17",
+        "Clint": "Clint17",
+        "ClassType": "C17",
+        "ClassNum": "ClassNum17",
+        "ClassBez": "ClassBez17",
+        "Status": "7",
+        "StandardClass": "7"
+    },
+    {
+        "ObjectId": "ObjectId18",
+        "Clint": "Clint18",
+        "ClassType": "C18",
+        "ClassNum": "ClassNum18",
+        "ClassBez": "ClassBez18",
+        "Status": "8",
+        "StandardClass": "8"
+    },
+    {
+        "ObjectId": "ObjectId19",
+        "Clint": "Clint19",
+        "ClassType": "C19",
+        "ClassNum": "ClassNum19",
+        "ClassBez": "ClassBez19",
+        "Status": "9",
+        "StandardClass": "9"
+    },
+    {
+        "ObjectId": "ObjectId20",
+        "Clint": "Clint20",
+        "ClassType": "C20",
+        "ClassNum": "ClassNum20",
+        "ClassBez": "ClassBez20",
+        "Status": "0",
+        "StandardClass": "0"
+    }
+]
